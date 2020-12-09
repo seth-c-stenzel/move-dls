@@ -1,4 +1,4 @@
-# file_date_mover
+# move-dls.py
 Script to move files into a folder of their last modification date.
 
 # why?
